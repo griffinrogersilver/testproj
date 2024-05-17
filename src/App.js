@@ -1,15 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+// import seoImage from './logo.svg';
+// 
 function App() {
 
 // need to return the div.
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={seoImage} alt="Generic Search Engine Optimization image" ></img> */}
         <p>
-          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
